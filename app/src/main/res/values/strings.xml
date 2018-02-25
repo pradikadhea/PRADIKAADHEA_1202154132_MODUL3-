@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PRADIKA_1202154132_MODUL3</string>
+    <array name="water_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/vit</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/club</item>
+        <item>@drawable/evian</item>
+    </array>
+</resources>
